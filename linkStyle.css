@@ -1,0 +1,10 @@
+a{
+    color: red; /*Change the link color*/
+    text-decoration: none; /*Remove the decoration*/
+}
+a:visited {
+    text-decoration: none; /*Remove the decoration*/
+}
+a:link {
+    text-decoration: none; /*Remove the decoration*/
+}
